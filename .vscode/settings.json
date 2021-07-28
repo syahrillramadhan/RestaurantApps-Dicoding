@@ -1,0 +1,9 @@
+{
+    "vetur.format.defaultFormatter.js": "prettier-eslint",
+    "prettier.withNodeModules": true,
+    "prettier.trailingComma": "all",
+    "prettier.printWidth": 100,
+    "editor.wordWrapColumn": 100,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.endOfLine": "auto"
+}

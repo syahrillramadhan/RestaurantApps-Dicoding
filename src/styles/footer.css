@@ -1,0 +1,14 @@
+/* Footer */
+footer {
+  background-color: rgb(2, 141, 2);
+  color: #fff;
+  padding: 1.2em;
+  width: 100%;
+  text-align: center;
+  margin-top: 100px;
+}
+footer p {
+  font-size: 16px;
+  font-weight: lighter;
+  letter-spacing: 2px;
+}

@@ -1,0 +1,114 @@
+/* Detail */
+
+.restaurant {
+  width: 100%;
+  padding-top: 25px;
+}
+.restaurant h1 {
+  font-size: 32px;
+  font-weight: lighter;
+}
+.restaurant h3 {
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.restaurant p {
+  font-size: 14px;
+}
+
+.Detail-Content {
+  display: flex;
+  flex-direction: column;
+}
+
+.restaurant-name {
+  font-weight: 400;
+  margin-bottom: 4px;
+}
+.content-left .restaurant-poster {
+  width: 100%;
+  border-radius: 5px;
+}
+
+/* daftar menu */
+.menu-restaurant {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.menu-restaurant ul li {
+  list-style-type: none;
+  font-size: 14px;
+}
+
+.customer-item {
+  width: 100%;
+  box-shadow: 0 4px 15px rgb(0 0 0 / 5%);
+  border: 1px solid rgb(225, 223, 223);
+  border-radius: 5px;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.customer-item h1 {
+  font-size: 14px;
+  font-weight: 600;
+}
+.customer-item p {
+  font-size: 12px;
+  color: #a7a7a7;
+}
+.customer-item .date {
+  font-size: 10px;
+  color: rgb(2, 141, 2);
+}
+
+.reviews {
+  margin-bottom: 20px;
+}
+
+/* cooment review */
+.form-reviewer {
+  width: 100%;
+}
+.form-name input {
+  display: inline-block;
+  line-height: 3em;
+  padding-left: 10px;
+  width: 100%;
+  box-shadow: 0 4px 15px rgb(0 0 0 / 5%);
+  border: 1px solid rgb(225, 223, 223);
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.form-name {
+  margin-top: 10px;
+}
+.form-reviewer ::placeholder {
+  color: rgb(181, 181, 181);
+}
+
+.form-review textarea {
+  display: inline-block;
+  padding: 8px 8px 8em 8px;
+  width: 100%;
+  box-shadow: 0 4px 15px rgb(0 0 0 / 5%);
+  border: 1px solid rgb(225, 223, 223);
+  border-radius: 5px;
+}
+
+.form-reviewer button {
+  float: right;
+  line-height: 44px;
+  width: 120px;
+  padding: 2px;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(2, 206, 2);
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  text-decoration: none;
+}
