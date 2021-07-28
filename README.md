@@ -6,3 +6,4 @@ Start Project Restaurant Apps Submission With Dicoding Indonesia
 - NPM install
 - NPM Run Build or Yarn Build
 - NPM Run Build-Image Or Yarn Build-Image
+- NPM Run Start-dev Or Yarn Start-dev
